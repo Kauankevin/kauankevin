@@ -6,6 +6,12 @@ Estudante em Desenvolvimento de Sistemas e Análise de Sistemas, sempre buscando
 
 - 🌐 Basico em HTML, CSS, JavaScript, e SQL
 
+  🧑‍💻 Tecnologias que estou aprendendo:
+- Front-End: HTML, CSS, JavaScript
+- Back-End: Node.js
+- Bancos de Dados: MySQL
+- Outras: Git, GitHub
+
 ## 📈 Estadísticas de GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauankevin&show_icons=true&theme=radical)
