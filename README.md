@@ -1,17 +1,16 @@
 # ola, sou [kauan]! 👋
 
-Sou Estudante de anlise e desenvolvimento de sistema,sei o basico de algumas linguagens de progamações.
+🎓 Estudante de Desenvolvimento de Sistemas e Análise de Sistemas 
+
+Estudante em Desenvolvimento de Sistemas e Análise de Sistemas, sempre buscando aprender e crescer no mundo da tecnologia. Tenho interesse por programação, bancos de dados, análise de sistemas.
 
 - 🌐 Basico em HTML, CSS, JavaScript, e SQL
 
-## 🚀 Curiosidades
-
-- [projeto de curriculo](file:///C:/Users/kauan/Desktop/trabalho.html/corriculo/index.html)
-
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=usuario123&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kauankevin&show_icons=true&theme=radical)
 
-## 🤝 Contatos!
+🔗 Vamos nos conectar:
 - Instagram: [Meu Perfil de Instagram](https://www.instagram.com/kauan.kvn/)
 - LinkedIn: [Meu Perfil de LinkedIn](https://www.linkedin.com/in/kauanfuturedev)
+- Email: kauankevinmoreira27@gmail.com
