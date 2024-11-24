@@ -4,7 +4,7 @@
 
 Estudante em Desenvolvimento de Sistemas e Análise de Sistemas, sempre buscando aprender e crescer no mundo da tecnologia. Tenho interesse por programação, bancos de dados, análise de sistemas.
 
-- 🌐 Basico em HTML, CSS, JavaScript, e SQL
+- 🌐 Basico em HTML, CSS, JavaScript, Python, e SQL
 
   🧑‍💻 Tecnologias que estou aprendendo:
 - Front-End: HTML, CSS, JavaScript
