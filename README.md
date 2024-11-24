@@ -6,7 +6,7 @@ Sou Estudante de anlise e desenvolvimento de sistema,sei o basico de algumas lin
 
 ## 🚀 Curiosidades
 
-- [Mi Proyecto 2](file:///C:/Users/kauan/Desktop/trabalho.html/corriculo/index.html) - projeto de curriculo.
+- [projeto de curriculo](file:///C:/Users/kauan/Desktop/trabalho.html/corriculo/index.html)
 
 ## 📈 Estadísticas de GitHub
 
@@ -15,4 +15,3 @@ Sou Estudante de anlise e desenvolvimento de sistema,sei o basico de algumas lin
 ## 🤝 Contatos!
 - Instagram: [Meu Perfil de Instagram](https://www.instagram.com/kauan.kvn/)
 - LinkedIn: [Meu Perfil de LinkedIn](https://www.linkedin.com/in/kauanfuturedev)
-
